@@ -7,6 +7,8 @@ Money in new era
 * P2P协议
 * 加密算法。简单搜索过，貌似你SSL玩的好，应该很容易理解比特币里面的加密方法。
 
+## 加密算法与比特币
+* https://en.bitcoin.it/wiki/How_bitcoin_works 的 Cryptography 一节。
 ## 数字签名
 
 #### 基于非对称加密的数字签名技术:
@@ -14,6 +16,7 @@ Money in new era
   * A发送： [text, encrypt\_with\_private\_key(digest(text))]   => [text, secret\_info]
   * B接收到 [text, secret\_info], 要确定下面的等式成立： digest(text) == decrypt\_with\_public\_key(secret\_info). 如果这个等式成立，text就是A发送的，而且没被篡改。
   * 前提是A要给B提供两个信息：我用的是什么摘要算法，我的公钥。
+
 
 ## 实际操作
 * 第一步，下载Bitcoin client.
