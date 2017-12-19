@@ -7,4 +7,5 @@ Money in new era
 * P2P协议
 * 加密算法。简单搜索过，貌似你SSL玩的好，应该很容易理解比特币里面的加密方法。
 
-# 比特币相关参考。
+# 比特币的相关参考资料。
+* https://yeasy.gitbooks.io/blockchain_guide/content/crypto/algorithm.html
