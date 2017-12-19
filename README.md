@@ -13,7 +13,7 @@ Money in new era
 * 靠虑A发送text给B
   * A发送： [text, encrypt\_with\_private\_key(digest(text))]   => [text, secret\_info]
   * B接收到 [text, secret\_info], 要确定下面的等式成立： digest(text) == decrypt\_with\_public\_key(secret\_info). 如果这个等式成立，text就是A发送的，而且没被篡改。
-  * 前提是A要给B提供两个信息：我用的是什么摘要算法，我的公钥。
+  * 前提是A要给B提供两个信息：我用的是什么摘要算法，我的公钥。
 
 
 # 比特币的相关参考资料。
