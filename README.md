@@ -10,7 +10,7 @@ Money in new era
 ## 加密算法与比特币
 * https://en.bitcoin.it/wiki/How_bitcoin_works 的 Cryptography 一节。
   * 提到了非对称加密算法：ECDSA
-  * 提到了Hashcash函数
+  * 提到了Hashcash函数。本来用于了垃圾邮件治理和Dos攻击。
   * In bitcoin, integrity, block-chaining, and the hashcash cost-function all use SHA256 as the underlying cryptographic hash function
 ## 数字签名
 
