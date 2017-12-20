@@ -14,6 +14,8 @@ Money in new era
 
 ### Hash函数与加密算法的区别
 * https://stackoverflow.com/questions/4948322/fundamental-difference-between-hashing-and-encryption-algorithms
+    * Hash函数会丢信息，所以不可逆，因为丢信息，所以会碰撞，是多对一。 
+    * 加密函数不会丢信息，所以可逆。是1对1.
 
 ## 加密算法与比特币
 * https://en.bitcoin.it/wiki/How_bitcoin_works 的 Cryptography 一节。
