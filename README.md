@@ -12,6 +12,9 @@ Money in new era
     * 从私钥可以算出公钥，反之，不可以。
 * 数字签名，哈希，checksum, 摘要，MAC(完整性和认证(谁发的)的双重功能)
 
+## 科普
+* http://lucky521.github.io/blog/design/2015/12/26/bitcoin.html
+
 ### Hash函数与加密算法的区别
 * https://stackoverflow.com/questions/4948322/fundamental-difference-between-hashing-and-encryption-algorithms
     * Hash函数会丢信息，所以不可逆，因为丢信息，所以会碰撞，是多对一。 
