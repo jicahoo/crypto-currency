@@ -7,6 +7,10 @@ Money in new era
 * P2P协议
 * 加密算法。简单搜索过，貌似你SSL玩的好，应该很容易理解比特币里面的加密方法。
 
+## 基本概念
+* 什么是公钥，私钥？ 什么关系？
+    * 从私钥可以算出公钥，反之，不可以。
+* 数字签名，哈希，checksum, 摘要，MAC(完整性和认证(谁发的)的双重功能)
 ## 加密算法与比特币
 * https://en.bitcoin.it/wiki/How_bitcoin_works 的 Cryptography 一节。
   * 提到了非对称加密算法：ECDSA
