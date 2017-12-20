@@ -24,6 +24,10 @@ Money in new era
   * In bitcoin, integrity, block-chaining, and the hashcash cost-function all use SHA256 as the underlying cryptographic hash function
 ## 数字签名
 
+## 比特币的Transaction
+* https://www.ccn.com/bitcoin-transaction-really-works/
+    * wallet 和 address 的区别
+
 #### 基于非对称加密的数字签名技术:
 * 靠虑A发送text给B
   * A发送： [text, encrypt\_with\_private\_key(digest(text))]   => [text, secret\_info]
