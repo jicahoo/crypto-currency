@@ -40,3 +40,4 @@ Money in new era
 
 # 比特币的相关参考资料。
 * https://yeasy.gitbooks.io/blockchain_guide/content/crypto/algorithm.html
+* https://www.coindesk.com/information/
