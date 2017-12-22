@@ -41,6 +41,8 @@ Money in new era
   * 前提是A要给B提供两个信息：我用的是什么摘要算法，我的公钥。
 
 ## 比特币的概念 
+### 比特币交易是有成本的，甚至会有手续费。Bitcoin transcation fee. 而且有复杂的算法。
+* http://bitcoinfees.com/
 ### 区块链
 * https://bitcoin.org/en/developer-guide#block-chain
    ![graph](https://bitcoin.org/img/dev/en-blockchain-overview.svg "Logo Title Text 1")
