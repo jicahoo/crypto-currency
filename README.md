@@ -2,6 +2,9 @@
 Money in new era
 # 比特币
 
+# 有意思的比特币分析图表
+* https://blockchain.info/charts
+
 # 搞懂比特币所需要的基础知识
 * 数据结构
 * P2P协议
