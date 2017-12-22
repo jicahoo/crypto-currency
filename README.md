@@ -44,7 +44,7 @@ Money in new era
 ### 区块链
 * https://bitcoin.org/en/developer-guide#block-chain
    ![graph](https://bitcoin.org/img/dev/en-blockchain-overview.svg "Logo Title Text 1")
-* 区块链通过哈希环环相扣。当前区块头要存储前一区块头的哈希值。所以说，当前区块头的值是由所以祖先区块所决定的；而区块头的一部分信息是由所有该区块的交易信息决定的（通过Merkle树，一层一层地算哈希）。
+* 区块链通过哈希环环相扣。当前区块头要存储前一区块头的哈希值。所以说，当前区块头的值是由所有祖先区块所决定的；而区块头的一部分信息是由所有该区块的交易信息决定的（通过Merkle树，一层一层地算哈希），那么，前一区块头的哈希值是和所有祖先的交易信息相关的。
 
 
 ## 实际操作
