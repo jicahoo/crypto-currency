@@ -24,7 +24,7 @@ Money in new era
 * https://www.quora.com/Why-is-Bitcoins-cap-set-at-circa-21-million-coins-and-not-more-or-less-Is-this-amount-chosen-in-an-arbitrary-way-or-is-there-an-argument-behind-it
 
 # 比特币的单位
-* 理解单位是真正理解比特币的基础。你才能理解"3个比特“中3个的内涵到底是什么。
+* 理解单位是真正理解比特币的基础。你才能理解"3个比特币“中3个的内涵到底是什么。
 * https://en.bitcoin.it/wiki/Units
 * https://en.bitcoin.it/wiki/Satoshi_(unit)
 
