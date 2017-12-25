@@ -6,6 +6,10 @@ Money in new era
 * https://en.bitcoin.it/wiki/Units
 * https://en.bitcoin.it/wiki/Satoshi_(unit)
 
+# 为什么比特币貌似有个2100万的上限？
+* 本质是一个几何级数的收敛值
+* https://en.bitcoin.it/wiki/Controlled_supply
+
 # 有意思的比特币分析图表
 * https://blockchain.info/charts
 
