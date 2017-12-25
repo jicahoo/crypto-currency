@@ -17,6 +17,7 @@ Money in new era
     * 所以比特币的总量等于 `= 210000*50*1 + 210000*50*(1/2) + 210000*50*(1/4) + ...`, 这个数列的和就是几何级数，结果就是`210000*50*(1/(1-1/2)) = 21000000`. 结果就是两千一百万，单位是BTC。 可以算一算什么时候挖到一个Block，得到的奖励还不到一个聪?
    
 * https://en.bitcoin.it/wiki/Controlled_supply
+* https://www.quora.com/Why-is-Bitcoins-cap-set-at-circa-21-million-coins-and-not-more-or-less-Is-this-amount-chosen-in-an-arbitrary-way-or-is-there-an-argument-behind-it
 
 # 有意思的比特币分析图表
 * https://blockchain.info/charts
