@@ -2,6 +2,10 @@
 Money in new era
 # 比特币
 
+# 比特币的单位
+* https://en.bitcoin.it/wiki/Units
+* https://en.bitcoin.it/wiki/Satoshi_(unit)
+
 # 有意思的比特币分析图表
 * https://blockchain.info/charts
 
