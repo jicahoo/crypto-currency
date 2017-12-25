@@ -23,6 +23,11 @@ Money in new era
 * 比特币发行的趋势图：https://en.bitcoin.it/wiki/File:Controlled_supply-supply_over_block_height.png (第6929999块被挖出来之后，比特币就达到了21000000个)。
 * https://www.quora.com/Why-is-Bitcoins-cap-set-at-circa-21-million-coins-and-not-more-or-less-Is-this-amount-chosen-in-an-arbitrary-way-or-is-there-an-argument-behind-it
 
+# 比特币的单位
+* 理解单位是真正理解比特币的基础。你才能理解"3个比特“中3个的内涵到底是什么。
+* https://en.bitcoin.it/wiki/Units
+* https://en.bitcoin.it/wiki/Satoshi_(unit)
+
 # 有意思的比特币分析图表
 * https://blockchain.info/charts
 
