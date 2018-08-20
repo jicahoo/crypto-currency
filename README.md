@@ -40,6 +40,7 @@ Money in new era
 * 什么是公钥，私钥？ 什么关系？
     * 从私钥可以算出公钥，反之，不可以。
 * 数字签名，哈希，checksum, 摘要，MAC(完整性和认证(谁发的)的双重功能)
+* SSL就要四个安全相关的算法，Key Exchange, Authentication, Encryption, MAC.
 
 ## 科普
 * http://lucky521.github.io/blog/design/2015/12/26/bitcoin.html
